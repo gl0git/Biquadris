@@ -1,6 +1,11 @@
 # Biquadris
 A multiplayer, terminal-based implementation of Tetris
 
+## Code
+The code for this project is available on request, in order to adhere to my university's policy (Policy 71).
+While I would like to share this openly, my university does not allow so as it would compromise the integrity
+of the course this project was written for (CS246).
+
 ## Features
 - Block rotations (clockwise, counterclockwise), drops, shifts in any direction 
 - Score tracking using a variant of Tetris rules 
